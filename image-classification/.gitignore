@@ -1,0 +1,5 @@
+checkpoint
+cifar-10-*
+*.data-*
+*.index
+*.meta
